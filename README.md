@@ -1,4 +1,8 @@
 # OOP-AssemblyStation-Project
+<div align="center">
+	<img src="https://img.shields.io/badge/Course-OOP345-2ea44f" alt="Course - OOP345">
+	<img src="https://img.shields.io/badge/Grade-A%2B-informational" alt="Grade - A+">
+</div>
 This repository is a culmination of all the milestones of the final project of OOP345 course for Seneca. The milestones and requirements are as below.
 
 **Course:** `OOP345`<br>
