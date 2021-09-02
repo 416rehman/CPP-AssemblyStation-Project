@@ -1,6 +1,6 @@
 # OOP-AssemblyStation-Project
 This repository is a culmination of all the milestones of the final project of OOP345 course for Seneca. The milestones and requirements are as below.
-
+**Course:** `OOP345`
 **Achieved Grade:** `A+`
 
 ## Project Overview
