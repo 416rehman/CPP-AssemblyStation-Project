@@ -5,9 +5,6 @@
 </div>
 This repository is a culmination of all the milestones of the final project of OOP345 course for Seneca. The milestones and requirements are as below.
 
-**Course:** `OOP345`<br>
-**Achieved Grade:** `A+`
-
 ## Project Overview
 
 The purpose of this term project is to put your C++ Object Oriented skills to practice by developing a simulation of an assembly line with any number of stations. A line with 3 Stations is illustrated in the figure below.
